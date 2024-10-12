@@ -28,9 +28,9 @@ This repository contains code for a model that predicts salary based on years of
 
 **Running the Script:**
 
-1. Save the code as a Python file (e.g., `salary_predictor.py`).
-2. Open a terminal or command prompt and navigate to the directory where you saved the file.
-3. Run the script using `python salary_predictor.py`.
+ 1. Save the code as a Python file (e.g., `salary_predictor.py`).
+ 2. Open a terminal or command prompt and navigate to the directory where you saved the file.
+ 3. Run the script using `python salary_predictor.py`.
 
 This README provides a basic structure. You can customize it further by adding:
 
